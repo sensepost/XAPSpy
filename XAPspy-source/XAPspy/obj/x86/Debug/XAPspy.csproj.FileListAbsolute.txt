@@ -1,0 +1,85 @@
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\bin\Debug\XAPspy.exe
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\bin\Debug\XAPspy.pdb
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\obj\x86\Debug\XAPspy.Properties.Resources.resources
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\obj\x86\Debug\XAPspy.exe
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\obj\x86\Debug\XAPspy.pdb
+C:\Users\lynx\AppData\Local\Temporary Projects\XAPspy\obj\x86\Debug\XAPspy.Form1.resources
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\XAPspy.exe
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\XAPspy.pdb
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\bin\Debug\XAPspy.exe
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\bin\Debug\XAPspy.pdb
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\XAPspy.Properties.Resources.resources
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lynx\documents\visual studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\XAPspy.frmMain.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy\XAPspy\obj\x86\Debug\XAPspy.csproj.ResolveComReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy\XAPspy\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy\XAPspy\bin\Debug\Mono.Cecil.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy\XAPspy\bin\Debug\XAPspy.exe.config
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\bin\Debug\XAPspy.exe.config
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\XAPspy.csproj.ResolveComReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\XAPspy.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\XAPspy.pdb
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\XAPspy.frmMain.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\XAPspy.Properties.Resources.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\bin\Debug\XAPspy.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\bin\Debug\XAPspy.pdb
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy2\XAPspy\bin\Debug\Mono.Cecil.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\bin\Debug\XAPspy.exe.config
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\bin\Debug\XAPspy.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\bin\Debug\XAPspy.pdb
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\bin\Debug\Mono.Cecil.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\XAPspy.csproj.ResolveComReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\XAPspy.frmMain.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\XAPspy.Properties.Resources.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\XAPspy.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\obj\x86\Debug\XAPspy.pdb
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\bin\Debug\EasyHook.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy3\XAPspy\bin\Debug\EasyHook.xml
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\bin\Debug\XAPspy.exe.config
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\bin\Debug\XAPspy.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\bin\Debug\XAPspy.pdb
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\bin\Debug\EasyHook.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\bin\Debug\Mono.Cecil.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\bin\Debug\EasyHook.xml
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\XAPspy.csproj.ResolveComReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\XAPspy.frmMain.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\XAPspy.Properties.Resources.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\XAPspy.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XAPspy4\XAPspy\obj\x86\Debug\XAPspy.pdb
+C:\final\sources\XAPspy-source\XAPspy\bin\Debug\XAPspy.exe.config
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\Interop.Shell32.dll
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\XAPspy.csproj.ResolveComReference.cache
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\XAPspy.exe
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\XAPspy.pdb
+C:\final\sources\XAPspy-source\XAPspy\bin\Debug\XAPspy.exe
+C:\final\sources\XAPspy-source\XAPspy\bin\Debug\XAPspy.pdb
+C:\final\sources\XAPspy-source\XAPspy\bin\Debug\EasyHook.dll
+C:\final\sources\XAPspy-source\XAPspy\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\final\sources\XAPspy-source\XAPspy\bin\Debug\Mono.Cecil.dll
+C:\final\sources\XAPspy-source\XAPspy\bin\Debug\EasyHook.xml
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\XAPspy.frmMain.resources
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\XAPspy.Properties.Resources.resources
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\final\sources\XAPspy-source\XAPspy\obj\x86\Debug\GenerateResource.write.1.tlog

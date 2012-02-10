@@ -1,0 +1,8 @@
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\bin\Release\XDEHook.dll
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\bin\Release\XDEHook.pdb
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\bin\Release\EasyHook.dll
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\bin\Release\XDEMonitor.exe
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\bin\Release\XDEMonitor.pdb
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\obj\Release\XDEHook.dll
+C:\Users\lynx\documents\visual studio 2010\Projects\XDEHook\XDEHook\obj\Release\XDEHook.pdb

@@ -1,0 +1,11 @@
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\bin\Release\XDEMonitor.exe.config
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\bin\Release\XDEMonitor.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\bin\Release\XDEMonitor.pdb
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\bin\Release\EasyHook.dll
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\obj\x86\Release\XDEMonitor.Form1.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\obj\x86\Release\XDEMonitor.Properties.Resources.resources
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\obj\x86\Release\XDEMonitor.exe
+C:\Users\lynx\Documents\Visual Studio 2010\Projects\XDEMonitor\XDEMonitor\obj\x86\Release\XDEMonitor.pdb
